@@ -1,0 +1,4 @@
+org.eclipse.*
+/target/
+.project
+.classpath
